@@ -1,0 +1,27 @@
+{
+	"name": "Fatih Yavuz",
+	"description": "Maker @links.dev & Software Engineer @Spotify",
+	"image_url": "https://avatars.githubusercontent.com/u/64584169",
+	"links": [
+		{
+			"title": "GitHub",
+			"url": "https://github.com/KhalidSaifullahFuad/",
+			"icon": "github"
+		},
+		{
+			"title": "LinkedIn",
+			"url": "https://www.linkedin.com/in/khalidsaifullahfuad",
+			"icon": "linkedin"
+		},
+		{
+			"title": "Twitter",
+			"url": "https://twitter.com/khalidsaiffuad",
+			"icon": "twitter"
+		},
+		{
+			"title": "Blog",
+			"url": "https://dev.to/@khalidsaifullahfuad",
+			"icon": "medium"
+		}
+	]
+}
